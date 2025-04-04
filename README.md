@@ -17,7 +17,7 @@
 
 - 👨‍💻 **All projects:** [Portfolio](https://snehabansal483.github.io/)  
 
-- 📝 I post articles on my [blog](https://blog-iota-lac-71.vercel.app/)
+<!--- 📝 I post articles on my [blog](https://blog-iota-lac-71.vercel.app/)-->
 
 - 📫 How to reach me **snehabansal483@gmail.com**
 
