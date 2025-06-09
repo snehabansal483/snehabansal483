@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/snehaba50023909" target="blank"><img src="https://img.shields.io/twitter/follow/snehaba50023909?logo=twitter&style=for-the-badge" alt="snehaba50023909" /></a> </p>-->
 
-- 🔭 **Currently working on:** Full-stack web application [Grocery Management System](https://snehabansal483.github.io/GSM/) 
+- 🔭 **Currently working on:** Full-stack web application [Ai Interview Coach](https://github.com/snehabansal483/frontend-repo/) 
 
 - 🌱 **Currently learning:** Flask  
 
@@ -58,7 +58,7 @@
 <a href="https://www.leetcode.com/sneha28-bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha28-bansal" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@snehabansal481/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="snehabansal481" height="30" width="40" /></a>
 <a href="mailto:snehabansal483@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="snehabansal483@gmail.com" height="30" width="35" /></a> &nbsp
-<a href="https://snehabansal483.github.io/" target="blank"><img align="center" src="https://github.com/snehabansal483/snehabansal483.github.io/blob/main/docs/images/portfolio.png" alt="Portfolio Website" height="30" width="32" /></a>
+<a href="https://snehabansal483.github.io/" target="blank"><img align="center" src="https://github.com/snehabansal483/snehabansal483.github.io/blob/main/docs/image/portfolio.png" alt="Portfolio Website" height="30" width="32" /></a>
   <br>
 <h2 align="center">🧠 Languages and Tools 🧠</h2>
 
