@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **snehabansal481@gmail.com**
 
-- 📄 **My experience:** [Download Resume](https://snehabansal483.github.io/resume/Sneha_Resume_update.pdf)  
+- 📄 **My experience:** [Download Resume](https://snehabansal483.github.io/docs/Resume/Sneha_Resume_update.pdf)  
 
 - ⚡ Fun fact **I once managed to solve a Rubik’s Cube, eat a samosa, and win an argument—all at the same time. True multitasking legend. 😄**
   <br>
