@@ -19,7 +19,7 @@
 
 <!--- 📝 I post articles on my [blog](https://blog-iota-lac-71.vercel.app/)-->
 
-- 📫 How to reach me **snehabansal483@gmail.com**
+- 📫 How to reach me **snehabansal481@gmail.com**
 
 - 📄 **My experience:** [Download Resume](https://snehabansal483.github.io/resume/Sneha_Bansal_Resume.pdf)  
 
