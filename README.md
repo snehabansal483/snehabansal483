@@ -41,7 +41,7 @@
   <a href="https://twitter.com/snehaba50023909" target="blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sneha Bansal Twitter"/>
   </a>
-  <a href="mailto:snehabansal483@gmail.com">
+  <a href="mailto:snehabansal481@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sneha Bansal Gmail"/>
   </a>
   <a href="https://snehabansal483.github.io/" target="blank">
